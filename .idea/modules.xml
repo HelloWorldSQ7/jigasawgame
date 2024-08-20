@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jigasawgame.iml" filepath="$PROJECT_DIR$/jigasawgame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jigasawpuzzle_module/jigasawpuzzle_module.iml" filepath="$PROJECT_DIR$/jigasawpuzzle_module/jigasawpuzzle_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzlegame_module/puzzlegame_module.iml" filepath="$PROJECT_DIR$/puzzlegame_module/puzzlegame_module.iml" />
+    </modules>
+  </component>
+</project>
